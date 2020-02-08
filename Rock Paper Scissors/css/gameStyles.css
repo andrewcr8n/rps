@@ -1,0 +1,88 @@
+/* Andrew Creighton 000207373 */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+form{
+    color: blanchedalmond;
+    border: 1px dotted black;
+    padding: 50px;
+    border-radius: 50%;
+}
+div.centerDiv{
+    margin: 15px;
+}
+label{
+    float: left;   
+}
+#container{
+    margin: 0 auto;
+    width: 33%;
+}
+#age{
+    margin-left: 7%; 
+}
+
+header {
+    padding: 40px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: orangered;
+}
+
+body {
+    background-color: darkslategray;
+    text-align: center;
+    padding: 50px;
+}
+
+header h1 {
+    color: darkred;
+}
+
+.scoreLabel {
+    padding: 3px;
+    color: blanchedalmond;
+    background-color: black;
+}
+
+#score {
+    color: white;
+    background-color: midnightblue;
+    padding: 10px;
+    text-align: center;
+    margin: 50px 35%;
+    width: 30%;
+    border: 5px solid orangered;
+}
+#winnerMessage{
+    color: white;
+}
+img{
+    margin: 10px;
+}
+.choice:hover{
+    padding: 10px;
+    border: 5px solid black;
+    cursor: crosshair;
+}
+#score h3,
+h2 {
+    display: inline;
+}
+
+#score h2 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1em;
+}
+
+#playerScoreLabel {
+    margin-right: 10px;
+}
+
+#compScoreLabel {
+    margin-left: 10px;
+}
+a{
+    color: whitesmoke;
+}
